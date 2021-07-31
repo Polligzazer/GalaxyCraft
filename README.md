@@ -1,3 +1,4 @@
+google-site-verification: google37ee20b36ad1e0f5.html
 <html>
 <head>
 	<title>GalaxyCraft - Official Website</title>
