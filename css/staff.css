@@ -80,9 +80,9 @@ h2 {
 	margin-top: 20px;
 }
 
-.ma {width: 78%; background: #f44141;}
-.mb {width: 96%; background: #33af33;}
-.mc {width: 98%; background: #4286f4;}
+.ma {width: 37%; background: #f44141;}
+.mb {width: 63%; background: #33af33;}
+.mc {width: 84%; background: #4286f4;}
 
 .owner,
 .manager,
@@ -90,9 +90,9 @@ h2 {
 	padding: 12px;
 }
 
-.owner {background-color: rgba(244, 65, 65, .5);}
-.manager {background-color: rgba(66, 134, 244, .5);}
-.admin {background-color: rgba(59, 211, 42, .5);}
+.java {background-color: rgba(244, 65, 65, .5);}
+.staff {background-color: rgba(66, 134, 244, .5);}
+.web {background-color: rgba(59, 211, 42, .5);}
 
 /* Footer */
 footer {
