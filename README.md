@@ -61,7 +61,7 @@
 
 		<div class="vote-section">
 			<h2>Vote For Us</h2>
-			<p>Please consider voting for Galaxycraft using the links below! Not only does this benifit us massivly, but you also get rewards in-game.</p>
+			<p>Please consider voting for Galaxycraft using the link below! Not only does this benifit us massively, but you also get rewards in-game.</p>
 			<div class="vote-container">
 				<div class="vote">
 					<h2>Minecraftpocket-servers.com</h2>
