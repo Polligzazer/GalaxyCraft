@@ -15,7 +15,7 @@
 		<header>
 			<div class="header">
 				<div class="logo">
-					<a href="/"><img src="img/logo.png" alt="MyServer logo"></a>
+					<a href="/"><img src="img/logo.png" alt="GC logo"></a>
 				</div>
 
 				<ul class="nav">
