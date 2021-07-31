@@ -8,7 +8,7 @@
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 	<link rel="stylesheet" href="css/stylesheet.css">
 	<link rel="stylesheet" href="css/home.css">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="icon" href="favicon.gif" type="image/png">
 	<script src="https://leonardosnt.github.io/mc-player-counter/dist/mc-player-counter.min.js"></script>
 </head>
 <body>
