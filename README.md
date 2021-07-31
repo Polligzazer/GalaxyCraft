@@ -1,7 +1,7 @@
 <html>
 <head>
 	<title>GalaxyCraft - Official Website</title>
-	<meta name="description" content="Galaxycraft is a revolutionary Minecraft server. You can join with the IP 'play.galaxycraft.ga">
+	<meta name="description" content="Galaxycraft is a faction/rpg server. You can join with the IP 'play.galaxycraft.ga">
 	<meta name="keywords" content="Galaxycraft, Faction, Minecraft Server, Minecraft, Fun, Play, Info, Website, Official">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="utf-8">
@@ -15,8 +15,6 @@
 		<header>
 			<div class="header">
 				<div class="logo">
-					<!-- In the img folder, upload your logo. -->
-					<!-- Make sure to name it 'logo.png'! -->
 					<a href="/"><img src="img/logo.png" alt="MyServer logo"></a>
 				</div>
 
@@ -29,8 +27,6 @@
 		</div>
 			<h1 class="animate">Welcome to the official GalaxyCraft website!</h1>
 			<div class="playercount">
-				<!-- Replace play.myserver.net with your IP address! -->
-				<!-- Make sure to do it for both examples below. -->
 				<p>Join <span data-playercounter-ip="play.galaxycraft.ga">
 				0</span> other players on <span>play.galaxycraft.ga</span></p>
 		</div>
@@ -71,7 +67,6 @@
 
 		<footer>
 			<p>Copyright &copy; GalaxyCraft 2021</p>
-			<!-- Remove this part below if you want! -->
 			<p style="padding-right: 30px;">Created <a href="play.galaxycraft.ga" target="_blank">Polligazer</a></p>
 		</footer>
 
